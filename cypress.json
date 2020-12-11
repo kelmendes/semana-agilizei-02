@@ -1,0 +1,14 @@
+{
+  "__comment": "Problemas de adicionar undeline nas url's",
+  "$schema": "https://raw.githubusercontent.com/cypress-io/cypress/develop/cli/schema/cypress.schema.json",
+  "baseUrl": "http://automationpractice.com/index.php",
+  "watchForFileChanges": true,
+  "experimentalSourceRewriting": true,
+  "viewportWidth": 1200,
+  "viewportHeight": 900,
+  "reporter": "cypress-multi-reporters",
+  "reporterOptions": {
+    "configFile": "reporter-config.json"
+  },
+  "projectId": "15gtxr"
+}
