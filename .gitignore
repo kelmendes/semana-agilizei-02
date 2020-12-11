@@ -1,5 +1,6 @@
 cypress/screenshots/*.*
 cypress/videos/*.*
 mochawesome-report/*.*
-cypress/fixtures/ticket_limpeza.jsoncypress/fixtures/pedido.jso
+cypress/fixtures/ticket_limpeza.json
+cypress/fixtures/pedido.jso
 node_modules
