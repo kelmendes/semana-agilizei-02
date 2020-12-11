@@ -1,12 +1,5 @@
+cypress/screenshots/*.*
+cypress/videos/*.*
+mochawesome-report/*.*
+cypress/fixtures/ticket_limpeza.jsoncypress/fixtures/pedido.jso
 node_modules
-cypress/fixtures/pedido.jso
-cypress/screenshots/TC300_report.spec.js/TC300_Report -- TC300_Report Pegar casos de teste com folha (failed).png
-cypress/videos/TC100_compras.spec.js.mp4
-cypress/videos/TC200_tickets.spec.js.mp4
-cypress/videos/TC201_tickets_limpeza_ambiente.spec.js.mp4
-cypress/videos/TC300_report.spec.js.mp4
-mochawesome-report/mochawesome_001.json
-mochawesome-report/mochawesome_002.json
-mochawesome-report/mochawesome_003.json
-mochawesome-report/mochawesome.json
-cypress/fixtures/ticket_limpeza.json
